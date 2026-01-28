@@ -24,6 +24,6 @@ A native Android application developed with **Kotlin**, designed to assist unive
 
 | File (Dosya) | Language | Description (Açıklama) |
 | :--- | :---: | :--- |
-| **[Okul_Chatbotu.pdf](./Okul_Chatbotu.pdf)** | TR | **Technical Report:** 16-page detailed documentation prepared with **LaTeX**. Covers Gemini API integration, Firebase setup, and app architecture. <br> *(LaTeX ile hazırlanmış 16 sayfalık teknik rapor. Gemini API entegrasyonu, Firebase kurulumu ve uygulama mimarisini içerir.)* |
+| **[Okul_Chatbotu.pdf](./Okul_Chatbotu.pdf.pdf)** | TR | **Technical Report:** 16-page detailed documentation prepared with **LaTeX**. Covers Gemini API integration, Firebase setup, and app architecture. <br> *(LaTeX ile hazırlanmış 16 sayfalık teknik rapor. Gemini API entegrasyonu, Firebase kurulumu ve uygulama mimarisini içerir.)* |
 
 > **Note:** Source code comments and the project report are in Turkish.
